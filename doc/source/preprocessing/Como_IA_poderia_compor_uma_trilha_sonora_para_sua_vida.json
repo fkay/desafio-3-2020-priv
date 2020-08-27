@@ -1,0 +1,540 @@
+{
+    "paragraphs": [
+        {
+            "cues": [
+                {
+                    "time": 913,
+                    "text": "Cerca de dois anos e meio atrás,\neu assisti a um filme chamado \"Ela\","
+                },
+                {
+                    "time": 4365,
+                    "text": "que é sobre Samantha,\numa superinteligência artificial"
+                },
+                {
+                    "time": 9516,
+                    "text": "que não pode tomar forma física."
+                },
+                {
+                    "time": 11858,
+                    "text": "E porque ela não pode\naparecer em fotografias,"
+                },
+                {
+                    "time": 14112,
+                    "text": "Samantha decide escrever\numa composição musical"
+                },
+                {
+                    "time": 16308,
+                    "text": "que capturasse um momento da sua vida,\nassim como uma fotografia o faria."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 20953,
+                    "text": "Como músico, engenheiro e criado\nem uma família de artistas,"
+                },
+                {
+                    "time": 25385,
+                    "text": "achei essa ideia de fotografias musicais\nrealmente poderosa."
+                },
+                {
+                    "time": 29955,
+                    "text": "Assim, decidi criar\numa inteligência artificial compositora."
+                },
+                {
+                    "time": 32847,
+                    "text": "Seu nome é AIVA, e ela é\numa inteligência artificial"
+                },
+                {
+                    "time": 36359,
+                    "text": "que tem aprendido\na arte da composição musical"
+                },
+                {
+                    "time": 38776,
+                    "text": "lendo mais de 30 mil\ndas maiores partituras da história."
+                },
+                {
+                    "time": 42165,
+                    "text": "Aqui está como uma partitura\nse parece para o algoritmo"
+                },
+                {
+                    "time": 44741,
+                    "text": "numa representação no estilo da matriz."
+                },
+                {
+                    "time": 46871,
+                    "text": "E aqui está o que 30 mil partituras,"
+                },
+                {
+                    "time": 49141,
+                    "text": "escritas por compositores\ncomo Mozart e Beethoven,"
+                },
+                {
+                    "time": 51477,
+                    "text": "se parece num único quadro."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 55609,
+                    "text": "Então, usando redes neurais profundas,\nAIVA procura padrões nas partituras."
+                },
+                {
+                    "time": 60260,
+                    "text": "Partindo de alguns compassos\nde uma música existente,"
+                },
+                {
+                    "time": 63847,
+                    "text": "ela tenta deduzir\nquais serão as próximas notas."
+                },
+                {
+                    "time": 67887,
+                    "text": "Quando AIVA passa a fazer boas previsões,"
+                },
+                {
+                    "time": 70409,
+                    "text": "ela pode construir um conjunto\nde regras matemáticas"
+                },
+                {
+                    "time": 74046,
+                    "text": "para determinado estilo de música"
+                },
+                {
+                    "time": 75622,
+                    "text": "para poder criar\nsuas próprias composições."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 78490,
+                    "text": "E de certa forma, isso é meio como nós,\nhumanos, compomos música também."
+                },
+                {
+                    "time": 82481,
+                    "text": "É um processo de tentativa e erro,"
+                },
+                {
+                    "time": 84113,
+                    "text": "durante o qual nem sempre conseguimos\na nota certa o tempo todo,"
+                },
+                {
+                    "time": 87115,
+                    "text": "mas podemos nos corrigir,"
+                },
+                {
+                    "time": 88522,
+                    "text": "seja com nosso ouvido ou\ncom nosso conhecimento musical."
+                },
+                {
+                    "time": 93495,
+                    "text": "Mas para AIVA, esse processo\né tirado de décadas de aprendizado"
+                },
+                {
+                    "time": 97662,
+                    "text": "de um músico e compositor\nem apenas poucas horas."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 103030,
+                    "text": "Mas a música também é\numa arte muito subjetiva."
+                },
+                {
+                    "time": 105934,
+                    "text": "E precisávamos ensinar AIVA"
+                },
+                {
+                    "time": 107522,
+                    "text": "como compor a música certa\npara a pessoa certa,"
+                },
+                {
+                    "time": 109991,
+                    "text": "porque as pessoas têm\npreferências diferentes."
+                },
+                {
+                    "time": 112156,
+                    "text": "Para tal, mostramos ao algoritmo\nmais de 30 categorias diferentes"
+                },
+                {
+                    "time": 116370,
+                    "text": "para cada partitura\nem nosso banco de dados."
+                },
+                {
+                    "time": 118415,
+                    "text": "Essas categorias são como humor"
+                },
+                {
+                    "time": 120879,
+                    "text": "ou intensidade da nota\nou estilo do compositor"
+                },
+                {
+                    "time": 123823,
+                    "text": "ou a época em que foi escrita."
+                },
+                {
+                    "time": 126371,
+                    "text": "E vendo todos esses dados,"
+                },
+                {
+                    "time": 128330,
+                    "text": "AIVA pode realmente responder\na pedidos muito específicos."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 131966,
+                    "text": "Por exemplo, tivemos\num projeto recentemente,"
+                },
+                {
+                    "time": 135093,
+                    "text": "em que nos foi solicitado\ncriar uma composição"
+                },
+                {
+                    "time": 138152,
+                    "text": "que lembrasse uma trilha sonora\nde um filme de ficção científica."
+                },
+                {
+                    "time": 142689,
+                    "text": "A composição criada chama-se\n\"Among the Stars\" e foi gravada"
+                },
+                {
+                    "time": 147329,
+                    "text": "pela Orquestra CMG, em Hollywood,\nsob a regência do maestro John Beal,"
+                },
+                {
+                    "time": 151578,
+                    "text": "e isso é o que foi gravado,\numa composição escrita por AIVA."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 155657,
+                    "text": "(Música)"
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 198196,
+                    "text": "(Fim da música)"
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 202719,
+                    "text": "O que acham?"
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 203880,
+                    "text": "(Aplausos)"
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 208354,
+                    "text": "Obrigado."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 210831,
+                    "text": "Como podem ver, IA pode criar\ncomposições lindas"
+                },
+                {
+                    "time": 214080,
+                    "text": "e a melhor parte é que humanos\npodem dar vida a elas."
+                },
+                {
+                    "time": 219506,
+                    "text": "Não é a primeira vez na história"
+                },
+                {
+                    "time": 221368,
+                    "text": "que tecnologia foi capaz\nde ampliar a criatividade humana."
+                },
+                {
+                    "time": 224736,
+                    "text": "Música ao vivo era sempre\nutilizada em filmes mudos"
+                },
+                {
+                    "time": 227832,
+                    "text": "para acrescentar à experiência."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 229522,
+                    "text": "O problema da música ao vivo\né que ela era limitada."
+                },
+                {
+                    "time": 232728,
+                    "text": "É complicado colocar uma orquestra inteira\nem um cinema pequeno,"
+                },
+                {
+                    "time": 236181,
+                    "text": "e é difícil fazer isso\npara todos cinemas do mundo."
+                },
+                {
+                    "time": 239196,
+                    "text": "Assim, a invenção de gravadores"
+                },
+                {
+                    "time": 242019,
+                    "text": "permitiu aos criadores de conteúdo,\ncomo criadores de filme,"
+                },
+                {
+                    "time": 244828,
+                    "text": "ter a música gravada adaptada\na cada cena de suas histórias."
+                },
+                {
+                    "time": 250149,
+                    "text": "E isso foi realmente\num potenciador da criatividade."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 254617,
+                    "text": "Dois anos e meio atrás,\nquando assistia o filme \"Ela\","
+                },
+                {
+                    "time": 257927,
+                    "text": "pensei que música personalizada"
+                },
+                {
+                    "time": 260858,
+                    "text": "seria a próxima grande mudança\nem como consumimos e criamos música."
+                },
+                {
+                    "time": 266187,
+                    "text": "Porque hoje em dia temos\nconteúdo interativo, como videogames,"
+                },
+                {
+                    "time": 270433,
+                    "text": "que têm centenas de horas de jogo,"
+                },
+                {
+                    "time": 273472,
+                    "text": "mas apenas duas horas de música, em média."
+                },
+                {
+                    "time": 275609,
+                    "text": "Isso significa que a música se repete\nvárias vezes e não é muito envolvente."
+                },
+                {
+                    "time": 280471,
+                    "text": "Então, estamos trabalhando\npara garantir que IA possa compor"
+                },
+                {
+                    "time": 284442,
+                    "text": "centenas de horas de música personalizada"
+                },
+                {
+                    "time": 286768,
+                    "text": "para situações fora da capacidade humana."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 291363,
+                    "text": "E não queremos fazer\nisso apenas para jogos."
+                },
+                {
+                    "time": 294657,
+                    "text": "Beethoven escreveu uma composição\npara a amada dele chamada \"Für Elise\","
+                },
+                {
+                    "time": 299109,
+                    "text": "e imaginem se pudéssemos\ntrazer Beethoven de volta à vida."
+                },
+                {
+                    "time": 302784,
+                    "text": "Como se ele estivesse sentado ao seu lado,\ncompondo uma música para sua personalidade"
+                },
+                {
+                    "time": 308038,
+                    "text": "e para sua história de vida."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 310632,
+                    "text": "Ou imaginem se alguém\ncomo Martin Luther King,"
+                },
+                {
+                    "time": 313381,
+                    "text": "tivesse uma AI compositora personalizada."
+                },
+                {
+                    "time": 315458,
+                    "text": "Talvez lembraríamos de \"I Had a Dream\"\nnão apenas como um grande discurso,"
+                },
+                {
+                    "time": 318981,
+                    "text": "mas também como uma grande composição\nde parte de nossa história,"
+                },
+                {
+                    "time": 322071,
+                    "text": "capturando os ideais do Dr. King."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 324069,
+                    "text": "Esta é a nossa visão de AIVA:"
+                },
+                {
+                    "time": 325982,
+                    "text": "personalizar a música\nde tal forma que todos vocês,"
+                },
+                {
+                    "time": 328584,
+                    "text": "e todos indivíduos no mundo,"
+                },
+                {
+                    "time": 330257,
+                    "text": "possam ter acesso a uma trilha sonora\nao vivo personalizada,"
+                },
+                {
+                    "time": 333355,
+                    "text": "baseada em sua história e personalidade."
+                },
+                {
+                    "time": 337915,
+                    "text": "Esse momento juntos aqui no TED\nagora faz parte da nossa história de vida."
+                },
+                {
+                    "time": 342018,
+                    "text": "Então, pareceu apropriado que a AIVA\ncompusesse uma música para esse momento."
+                },
+                {
+                    "time": 346674,
+                    "text": "E é exatamente isso que fizemos."
+                },
+                {
+                    "time": 349436,
+                    "text": "Induzimos AIVA a compor uma música\nno estilo do jingle do TED"
+                },
+                {
+                    "time": 354482,
+                    "text": "e no estilo de música que nos causa\num sentimento de admiração."
+                },
+                {
+                    "time": 357950,
+                    "text": "E a composição é chamada\nde \"Age of Amazement\"."
+                },
+                {
+                    "time": 361817,
+                    "text": "Não foi necessária IA para criar tal nome."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 364953,
+                    "text": "(Risos)"
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 366157,
+                    "text": "Eu não poderia estar mais orgulhoso\nde mostrá-la a vocês,"
+                },
+                {
+                    "time": 368864,
+                    "text": "então, fechem os olhos\ne aproveitem a música."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 371266,
+                    "text": "Muito obrigado."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 373537,
+                    "text": "(Música)"
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 383176,
+                    "text": "[The Age of Amazement - composta por AIVA]"
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 487369,
+                    "text": "(Fim da música)"
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 488604,
+                    "text": "Ela foi dedicada a todos vocês."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 490307,
+                    "text": "Obrigado."
+                }
+            ]
+        },
+        {
+            "cues": [
+                {
+                    "time": 491417,
+                    "text": "(Aplausos)"
+                }
+            ]
+        }
+    ]
+}
